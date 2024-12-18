@@ -1,4 +1,5 @@
 # Taller 9: 
+### Joel Domínguez Ochoa.
 ## Diseño de la solución de problemas con pseudocódigo aplicando arreglos bidimensionales.
 
 ### Problema1
